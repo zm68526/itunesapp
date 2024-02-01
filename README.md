@@ -1,0 +1,1 @@
+This is a project I did for CSCI1302 Software Development. It uses Java, JavaFX, and the iTunes API.
